@@ -144,12 +144,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Authors -->
 ## Authors
 
+Bryan Etzine - bryanetzine@ufl.edu  
 Dean Ward - dward2@ufl.edu  
 Daniel Giraldo - danielgiraldo@ufl.edu  
-Bryan Etzine - bryanetzine@ufl.edu  
-
-Project Link: [https://github.com/UF-FundMachineLearning-Summer23/final-project---code-report-ddb](https://github.com/UF-FundMachineLearning-Summer23/final-project---code-report-ddb)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
